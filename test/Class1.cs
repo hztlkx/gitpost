@@ -9,5 +9,6 @@ namespace test
     public class Class1
     {
         public int Num { get; set; }
+        public string Name { get; set; }
     }
 }
